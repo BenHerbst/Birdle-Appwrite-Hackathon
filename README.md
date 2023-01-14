@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/sahil-patel/image/upload/v1651819288/finocrunch/appwritehack/Birdle_2_bu33c2.png">
 </p>
 
-# Birdle - A Social Journalism Website
+# Birdle - A Social Journalism Website (Not maintained anymore)
 
 ![](https://res.cloudinary.com/sahil-patel/image/upload/v1651563658/finocrunch/appwritehack/appwritehack-image_srqpii.png)
 
